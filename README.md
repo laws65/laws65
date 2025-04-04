@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hobbyist game developer from Australia. <br>
+Currently working on [KAG clone with authoritative netcode] (https://github.com/laws65/kag-netcode)
 <!--
 **laws65/laws65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
